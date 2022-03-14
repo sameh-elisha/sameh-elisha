@@ -9,13 +9,3 @@ Skills: Flutter / HTML / CSS / JS / Python / AWS Services
 - 🔭 I’m currently working on Student @ BFCAI 
 - 🌱 I’m currently learning Web development 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0xse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/0xse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nullxSE)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xse)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xse&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=0xse)  
-
-
