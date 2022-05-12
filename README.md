@@ -9,3 +9,4 @@ Skills: Flutter / HTML / CSS / JS / Python / AWS Services
 - 🔭 I’m currently working on Student @ BFCAI 
 - 🌱 I’m currently learning Web development 
 
+![](https://komarev.com/ghpvc/?username=sameh-elisha)
