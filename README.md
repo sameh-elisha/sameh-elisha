@@ -4,8 +4,8 @@
 
 Third-year Computer Science student, future software engineer. My passion for software engineering brought me to the faculty of computers & artificial intelligence - BFCAI, benha university.
 
-Skills: Flutter / HTML / CSS / JS / Python / AWS Services
+Skills: Node.js / AWS Services  
 
 - 🔭 I’m currently working on Student @ BFCAI 
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently learning backend node.js.
 
