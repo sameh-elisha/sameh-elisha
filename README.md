@@ -6,6 +6,6 @@ Third-year Computer Science student, future software engineer. My passion for so
 
 Skills: Node.js / AWS Services  
 
-- 🔭 I’m currently working on Student @ BFCAI 
+- 🔭 I’m currently Student @ BFCAI 
 - 🌱 I’m currently learning backend node.js.
 
