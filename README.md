@@ -1,10 +1,3 @@
-### Hi there 👋, Sameh Elisha
-#### I am computer science student @ BFCAI
-
-Senior student, future software engineer. My passion for software engineering brought me to the faculty of computers & artificial intelligence - BFCAI, benha university.
-
-Skills: Node.js / Mongodb / Mongoose / AWS Services  
-
-- 🔭 I’m currently Student @ BFCAI 
-- 🌱 I’m currently learning backend node.js.
-
+### Hi there 👋, Sameh Awad
+#### I am software engineer.
+Always seeking to be a total software engineer, not an x-technology developer, also very interested in systems design, scaling applications, and mastering collaboration & productivity tools. I have a knowledge in Node JS, SQL, NoSQL, JS, and software engineering concepts .Quick to learn and good at search, I am seeking an opportunity to participate in collaborating, competitive and creative environment to develop my skills.
